@@ -54,10 +54,10 @@ class TV:
         return self._control
     
     ## set y get numTV
-    def setNumTv(numTV):
+    def setNumTV(numTV):
         TV._numTV = numTV
 
-    def getNumTv():
+    def getNumTV():
         return TV._numTV
 
     ## trunOn y turnOff + getEstado
