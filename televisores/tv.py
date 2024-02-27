@@ -5,7 +5,7 @@ class TV:
         self._marca = marca
         self._estado = estado
 
-        self._control = self._control
+        self._control = None
 
         self._volumen = 1
         self._canal = 1
